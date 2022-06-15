@@ -15,17 +15,21 @@ git clone connect4 with git
 
 ```bash
 git clone https://github.com/Wonderworlds/connect4.git
-
 cd connect4
-
+```
+```bash
 make
-or
-make bonus (for grapgical connect4)
-
+```
+or (for graphical connect4)
+```bash
+make bonus
+```
+```bash
 ./connect4 [height] [Width]
+```
 or
+```bash
 ./connect4_bonus [height] [Width] [--display]
-
 ```
 and you can play.
 
