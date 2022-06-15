@@ -19,16 +19,11 @@ cd connect4
 ```
 ```bash
 make
+./connect4 [height] [Width]
 ```
 or (for graphical connect4)
 ```bash
 make bonus
-```
-```bash
-./connect4 [height] [Width]
-```
-or
-```bash
 ./connect4_bonus [height] [Width] [--display]
 ```
 and you can play.
