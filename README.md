@@ -1,5 +1,5 @@
 Connect4
-# Project Title
+# Connect4
 
 Week-end project from Ecole 42 Paris
 
