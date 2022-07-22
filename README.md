@@ -1,4 +1,3 @@
-Connect4
 # Connect4
 
 Week-end project from Ecole 42 Paris
